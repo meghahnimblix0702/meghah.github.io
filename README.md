@@ -1,4 +1,3 @@
-# Megha H – Portfolio
 
 ## 👩‍💻 About Me
 Entry-level Data Analyst with 1 year of experience in the software department as Graduate Apprentice Trainee at Bharat Electronics Limited. Skilled in data handling, testing, documentation, and problem-solving. Passionate about transforming data into meaningful insights to support business decisions.
