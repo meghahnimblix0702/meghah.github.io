@@ -21,7 +21,7 @@ Entry-level Data Analyst with 1 year of experience in the software department as
 ---
 
 ## 🛠️ Key Skills
-- Functional and ststem Testing  
+- Functional and system Testing  
 - Reporting and Documentation 
 - Attention to details 
 - Problem Solving  
@@ -67,11 +67,11 @@ Ensured data accuracy and easy accessibility.
 ---
 ## 💼 Portfolio Highlights
 **Key Strengths:**
-● Strong analytical mindset
-● Quick learner with a growth-oriented attitude
-● Highly detail-oriented
-● Adaptable to new tools and technologies
-● Effective team collaborator
+- Strong analytical mindset
+- Quick learner with a growth-oriented attitude
+- Highly detail-oriented
+- Adaptable to new tools and technologies
+- Effective team collaborator
 
 ---
 
